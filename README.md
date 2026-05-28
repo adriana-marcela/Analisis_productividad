@@ -1,2 +1,2 @@
-# Analisis_productividad_cafetera
-Se realizó un análisis de productividad territorial del café en los departamentos del Eje Cafetero Colombiano a nivel municipal y departamental, durante el periodo entre los años 2019 y 2023
+# Análisis departamental y municipal de la caficultura en el Eje Cafetero Colombiano (2019– 2023) ☕
+Con el objetivo de analizar la producción de café en los municipios de los departamentos de Caldas, Quindío y Risaralda, con el fin de determinar cuáles regiones han aprovechado mejor su capacidad productiva durante el periodo 2019-2023. Para ello, se realizó un estudio cuantitativo con enfoque descriptivo y comparativo, a partir del análisis de variables como producción anual, rendimiento, área sembrada e identificación de tendencias.
